@@ -1,6 +1,7 @@
 # simplepyide
 A simple light-weight python IDE for beginners, with education features, and a user-friendly interface.
 # Features 
+
 1 - Black formatter. 
 2 - Program tree generator. 
 3 - TODO list. 
@@ -23,6 +24,5 @@ A simple light-weight python IDE for beginners, with education features, and a u
    ...etc 
 17 - Automatic indentation and dendentation. 
 16 - changeble font size. 
---------------------------------------------
-# Note:
-the project is still in the first stages, so it has some bugs here and there. 
+
+Note: the project is still in the first stages, so it has some bugs here and there. 
