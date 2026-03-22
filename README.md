@@ -1,6 +1,6 @@
 # simplepyide
 A simple light-weight python IDE for beginners, with education features, and a user-friendly interface.
-# Features 
+----------------------
 
 1 - Black formatter.
 2 - Program tree generator. 
