@@ -1,5 +1,6 @@
-# simplepyide 🐍 
-*A simple light-weight python IDE for beginners with educational features 📖*
+# simplepyide 🐍 - made by taymchm2L   
+*A simple light-weight python IDE for beginners with educational features 📖*   
+suitable for light-weight projects and for beginners to learn python easily, with a user-friendly interface and no complicated menus.   
 # Features 🧰🔥
 * Black formatter.  
 * Program tree generator.   
@@ -24,5 +25,6 @@ Note: the project is still in the first stages, so it has some bugs here and the
 --------------------------
 <All icons used in this project are exclusively sourced from https://icons8.com, with the exception of the application icon>    
 run this command on the terminal running on the projects folder ```pip install -r requirements.txt```.
-- read the instructions in instructions.md to setup up the IDE.
+read the instructions in instructions.md to setup up the IDE.   
+
 --------------------------
