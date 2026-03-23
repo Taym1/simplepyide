@@ -1,4 +1,4 @@
-# simplepyide 🐍 - made by taymchm2L   
+# simplepyide 🐍 - made by timchm2L   
 *A simple light-weight python IDE for beginners with educational features 📖*   
 suitable for light-weight projects and for beginners to learn python easily, with a user-friendly interface and no complicated menus.   
 the source code is simple and clear catigorized into multiple folders and multiple files, comments are everywhere so you know what each part of the code does,   
