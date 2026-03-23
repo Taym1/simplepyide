@@ -1,6 +1,8 @@
 # simplepyide 🐍 - made by taymchm2L   
 *A simple light-weight python IDE for beginners with educational features 📖*   
 suitable for light-weight projects and for beginners to learn python easily, with a user-friendly interface and no complicated menus.   
+the source code is simple and clear catigorized into multiple folders and multiple files, comments are everywhere so you know what each part of the code does,   
+the heirarchy is simple and clear, this project uses the native graphics library for the *G*raphical *U*ser *I*ntergace
 # Features 🧰🔥
 * Black formatter.  
 * Program tree generator.   
